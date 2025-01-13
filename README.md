@@ -1,50 +1,19 @@
-# WTS OneStop AntiBot Service
+# OneStop AntiBot Service
 
-Providing top-tier AntiBot solutions with fast support and high success rates. Below are our key offerings:
+If you're looking for AntiBot solvers or need to bypass blocks by Akamai, Kasada, DataDome, or Cloudflare, we've got you covered. Our solutions are designed for legal use cases like price scraping, price comparisons, and monitoring.
 
-## Akamai
-
-- **Fast Support:** We're here when you need us.
-- **Highest Success Rates:** Reliable and effective.
-- **Fast Response Times:** No lag, just performance.
-- **Infinite Scaling:** Grows with your needs.
-- **Trusted for Many Years:** A proven track record.
-- **Pixel/Sec-cpt Included:** At no additional cost.
-- **All UA's Supported:** Universal compatibility.
-
-## K4sada
-
-- **Fastest Response Times for Payload:** Unmatched speed.
-- **Highest Success Rates:** Consistently effective.
-- **Web and Mobile Supported:** Broad coverage.
-- **Very Fast Updates:** Always up-to-date.
-- **PoW Included in Package:** Extra security, no extra cost.
-
-## Akamai BMP
-
-- **Fast Response Times:** Quick and efficient.
-- **High Success Rates:** Dependable performance.
-- **Very Fast Updates:** Stay ahead of the curve.
-- **Infinite Scaling:** Expand without limits.
-- **Android/iOS Supported:** Comprehensive mobile support.
-- **Fast Support:** Rapid assistance whenever needed.
-
-**More antibots coming soon!**
-
-Contact us at: Enquiry@jevi.dev
-
-Interested in learning more or joining our community? Follow the link below:
-
-[Join Our Discord](https://discord.gg/UFQk3hKzar)
+We’re fast, reliable, and scalable, ensuring you stay ahead without breaking any rules.
 
 ---
 
-## Legal Notice
+**Contact us:** [Enquiry@jevi.dev](mailto:Enquiry@jevi.dev)  
+**Join our community:** [Join Our Discord](https://discord.gg/UFQk3hKzar)
 
-**Prohibition of Illegal Use:** The use of our AntiBot services for illegal purposes is strictly prohibited. Any such use will result in immediate termination of service.
+---
 
-**Revocation of Access:** In cases where illegal use is identified, the associated API key will be permanently banned without refund.
+**Legal Notice:**
 
-**Right to Refuse Service:** We reserve the right to refuse service to anyone at our discretion. This includes the right to revoke access and/or refuse sale of our services.
-
-Your compliance with these terms is mandatory for the continued use of our services.
+- Our services are strictly for legal use cases such as price monitoring, market analysis, and other lawful applications.
+- Any form of illicit use, including account takeovers (ATO), unauthorized data access, or other illegal activities, is strictly prohibited.
+- Violation of these terms will result in immediate termination of access, permanent banning of API keys, and no refunds.
+- By using our services, you agree to comply with all applicable laws and regulations.
